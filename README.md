@@ -10,8 +10,9 @@ Para a confecção do relatório, algumas atividades foram desenvolvidas cuja or
 ![image](https://github.com/codepyrock/project-dio-azure-company/assets/115929030/17cb0b53-a8a5-44ad-959c-a8703850a6b7)
 3. Criei um banco de dados no Workbench com base em scripts fornecidos pela instrutora da DIO
 4. Integrei o Power BI com MySQL no Azure
-5. Analisei a base de dados a fim de identificar valores discrepantes, nulos e redundantes e situações que pudessem comprometer a compreensão e utilidade do relatório.
-6. Confecção do relatório
+![image](https://github.com/codepyrock/project-dio-azure-company/assets/115929030/b5ae6b0a-9f55-4f23-9db5-65dd2f7c806f)
+6. Analisei a base de dados a fim de identificar valores discrepantes, nulos e redundantes e situações que pudessem comprometer a compreensão e utilidade do relatório.
+7. Confecção do relatório
 
 ## Desafios encontrados
 
