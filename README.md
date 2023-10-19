@@ -19,7 +19,13 @@ Para a confecção do relatório, algumas atividades foram desenvolvidas cuja or
 
 ## Respondendo questionamentos do desafio
 
+### Passo a passo da transformação realizada no Power Query
+1. Substitui o valor null por um dos chefes de departamento
+2. Alterei o tipo de dado da coluna 'salary'
+3. 
+
 ### Diferenças entre 'acrescentar' e 'mesclar' no Power Query:
+
   
 
    
