@@ -9,7 +9,7 @@ Para a confecção do relatório, algumas atividades foram desenvolvidas cuja or
 1. Criei uma instância na Azure para MySQL
 2. Criei um banco de dados no Workbench com base em scripts fornecidos pela instrutora da DIO
 3. Integrei o Power BI com MySQL no Azure
-4. Analisei a base de dados a fim de identificar valores discrepantes, nulos e que de certa forma pudessem prejudicar a fidedignidade do relatório.
+4. Analisei a base de dados a fim de identificar valores discrepantes, nulos e redundantes e situações que pudessem comprometer a compreensão e utilidade do relatório.
 5. Confecção do relatório
 
 # Desafios encontrados
