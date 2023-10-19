@@ -1,8 +1,8 @@
 # project-dio-azure-company
 Criação de um relatório após processamento de dados no Power BI. 
-Bootcamp: Ciência de dados com Python
-Instituição: DIO
-Instrutora: Juliana Mascarenhas
+Bootcamp: Ciência de dados com Python.
+Instituição: DIO.
+Instrutora: Juliana Mascarenhas.
 
 Para a confecção do relatório, algumas atividades foram desenvolvidas cuja ordem está abaixo discriminada:
 
