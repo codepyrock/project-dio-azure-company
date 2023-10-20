@@ -1,5 +1,5 @@
 # project-dio-azure-company
-Criação de um relatório após processamento de dados no Power BI. 
+Criação de uma instância na Azure e de um banco de dados no Workbench, integração do Power BI com MySQL na Azure a fim de processar os dados no Power Query. 
 - Bootcamp: Ciência de dados com Python.
 - Instituição: DIO.
 - Instrutora: Juliana Mascarenhas.
