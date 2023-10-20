@@ -1,5 +1,5 @@
 # project-dio-azure-company
-Criação de uma instância na Azure e de um banco de dados no Workbench, integração do Power BI com MySQL na Azure a fim de processar os dados no Power Query. 
+Criação de uma instância na Azure e de um banco de dados no Workbench; e integração do Power BI com MySQL na Azure a fim de processar os dados no Power Query. 
 - Bootcamp: Ciência de dados com Python.
 - Instituição: DIO.
 - Instrutora: Juliana Mascarenhas.
