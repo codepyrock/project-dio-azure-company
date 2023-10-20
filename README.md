@@ -24,10 +24,13 @@ Para a confecção do relatório, algumas atividades foram desenvolvidas cuja or
 ### Passo a passo da transformação realizada no Power Query
 1. Substitui o valor null por um dos chefes de departamento
 2. Alterei o tipo de dado da coluna 'salary'
-3. Mesclei as tabelas a fim de identificar quais empregados são gerentes de departamentos.
-4. 
+3. Juntei colunas FName e Lname
+4. Mesclei as tabelas a fim de identificar: quais empregados são gerentes de departamentos; quais empregados são managers; colaboradores por departamento; manager de cada colaborador; localização por departamento
+5. 
 
 ### Diferenças entre 'acrescentar' e 'mesclar' no Power Query:
+- Acrescentar: combina tabelas ou colunas juntando os registros / linhas ao total
+- Mesclar: combina tabelas e o resultado final apresenta uma junção de colunas segundo critérios de correspondência
 
   
 
