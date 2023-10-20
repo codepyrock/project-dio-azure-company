@@ -24,7 +24,8 @@ Para a confecção do relatório, algumas atividades foram desenvolvidas cuja or
 ### Passo a passo da transformação realizada no Power Query
 1. Substitui o valor null por um dos chefes de departamento
 2. Alterei o tipo de dado da coluna 'salary'
-3. 
+3. Mesclei as tabelas a fim de identificar quais empregados são gerentes de departamentos.
+4. 
 
 ### Diferenças entre 'acrescentar' e 'mesclar' no Power Query:
 
