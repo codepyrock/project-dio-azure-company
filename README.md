@@ -26,7 +26,7 @@ Para a confecção do relatório, algumas atividades foram desenvolvidas cuja or
 2. Alterei o tipo de dado da coluna 'salary'
 3. Juntei colunas FName e Lname
 4. Mesclei as tabelas a fim de identificar: quais empregados são gerentes de departamentos; quais empregados são managers; colaboradores por departamento; manager de cada colaborador; localização por departamento
-5. 
+5. Agrupei dados a fim de identificar quantos colaboradores existem por gerente
 
 ### Diferenças entre 'acrescentar' e 'mesclar' no Power Query:
 - Acrescentar: combina tabelas ou colunas juntando os registros / linhas ao total
